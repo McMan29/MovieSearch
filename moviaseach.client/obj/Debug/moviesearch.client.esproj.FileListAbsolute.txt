@@ -1,0 +1,1 @@
+D:\Training\MoviaSeach\moviaseach.client\obj\Debug\moviesearch.client.esproj.CoreCompileInputs.cache

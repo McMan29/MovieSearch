@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MoviaSeach.Server.props" />
+</Project>
