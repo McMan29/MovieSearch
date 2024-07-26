@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieSearch.Server", "MoviaSeach.Server\MovieSearch.Server.csproj", "{E8A02B44-6270-466E-8C31-232FDCB4CC66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieSearch.Server", "MovieSearch.Server\MovieSearch.Server.csproj", "{E8A02B44-6270-466E-8C31-232FDCB4CC66}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "moviesearch.client", "moviaseach.client\moviesearch.client.esproj", "{9D3AA852-733E-48AF-960D-C16F38D37506}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "moviesearch.client", "moviesearch.client\moviesearch.client.esproj", "{9D3AA852-733E-48AF-960D-C16F38D37506}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieSearch.UnitTests", "tests\MovieSearch.UnitTests\MovieSearch.UnitTests.csproj", "{79B3DAC6-5230-49A2-B003-5B06C848B2D3}"
 EndProject

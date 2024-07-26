@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\MoviaSeach.Server\MovieSearch.Server.csproj" />
+    <ProjectReference Include="..\..\MovieSearch.Server\MovieSearch.Server.csproj" />
   </ItemGroup>
 
 </Project>
